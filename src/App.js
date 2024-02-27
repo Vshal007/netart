@@ -5,7 +5,7 @@ import Navbar from './components/navbar';
 
 function App() {
   return (
-    <div>
+    <div className='bg-gradient-to-t from-yellow-200 to-slate-50'>
       <Navbar />
       <Content/>
       <Footer />
